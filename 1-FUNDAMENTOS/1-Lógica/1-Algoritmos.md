@@ -166,7 +166,7 @@ ALGORITMO: Fazer Sanduíche de Presunto e Queijo
 ```
 
 <details>
-<summary>**✅ Solução Possível**</summary>
+<summary><strong>✅ Solução Possível</strong></summary>
 
 ```
 ALGORITMO: Fazer Sanduíche de Presunto e Queijo
