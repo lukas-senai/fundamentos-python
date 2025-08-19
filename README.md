@@ -46,7 +46,7 @@ Trabalhe com coleções de dados de forma eficiente.
 - [Introdução às Listas](3-ESTRUTURAS-DADOS/1-Introducao-Listas.md)
 
 #### 3.2 Dicionários
-- [Introdução aos Dicionários](3-ESTRUTURAS-DADOS/1-Introducao-Dicionarios.md)
+- [Introdução aos Dicionários](3-ESTRUTURAS-DADOS/2-Introducao-Dicionarios.md)
 
 ### ⚙️ 4. FUNÇÕES
 Organize seu código e evite repetições com funções.
