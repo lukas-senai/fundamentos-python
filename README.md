@@ -33,11 +33,11 @@ Aprenda os conceitos fundamentais que são a base de toda programação.
 Aprenda a controlar o fluxo do seu programa com decisões e repetições.
 
 #### 2.1 Condicionais
-- [If e Else](2-ESTRUTURAS-CONTROLE/1-Condicionais/1-If-Else.md)
+- [If e Else](2-ESTRUTURAS-CONTROLE/1-If-Else.md)
 
 #### 2.2 Loops (Repetições)
-- [Loop For](2-ESTRUTURAS-CONTROLE/2-Loops/1-For.md)
-- [Loop While](2-ESTRUTURAS-CONTROLE/2-Loops/2-While.md)
+- [Loop For](2-ESTRUTURAS-CONTROLE/2-For.md)
+- [Loop While](2-ESTRUTURAS-CONTROLE/3-While.md)
 
 ### ⚙️ 3. FUNÇÕES
 Organize seu código e evite repetições com funções.
@@ -49,54 +49,45 @@ Organize seu código e evite repetições com funções.
 Trabalhe com coleções de dados de forma eficiente.
 
 #### 4.1 Listas
-- [Introdução às Listas](4-ESTRUTURAS-DADOS/1-Listas/1-Introducao-Listas.md)
+- [Introdução às Listas](4-ESTRUTURAS-DADOS/1-Introducao-Listas.md)
 
 #### 4.2 Dicionários
-- [Introdução aos Dicionários](4-ESTRUTURAS-DADOS/2-Dicionarios/1-Introducao-Dicionarios.md)
+- [Introdução aos Dicionários](4-ESTRUTURAS-DADOS/2-Introducao-Dicionarios.md)
 
-### 📁 5. MANIPULAÇÃO DE ARQUIVOS
-Aprenda a ler e escrever arquivos no seu computador.
-
-- [Lendo Arquivos](5-ARQUIVOS/1-Lendo-Arquivos.md)
-
-### 🛡️ 6. TRATAMENTO DE ERROS
+### 🛡️ 5. TRATAMENTO DE ERROS
 Torne seus programas mais robustos lidando com erros.
 
 - [Try e Except](5-TRATAMENTO-ERROS/1-Try-Except.md)
 
+### 📁 6. MANIPULAÇÃO DE ARQUIVOS
+Aprenda a ler e escrever arquivos no seu computador.
+
+- [Lendo Arquivos](6-ARQUIVOS/1-Lendo-Arquivos.md)
+
 ### 📦 7. TÓPICOS AVANÇADOS (Introduções)
 Visões gerais de tópicos mais avançados com links para tutoriais específicos.
 
-- [Módulos e Bibliotecas](6-MODULOS/1-Introducao-Modulos.md)
-- [Programação Orientada a Objetos](7-POO/1-Introducao-POO.md)
-- [APIs e Requisições Web](9-APIS/1-Introducao-APIs.md)
-- [Interface Gráfica](11-GUI/1-Introducao-GUI.md)
+- [Módulos e Bibliotecas](7-MODULOS/1-Introducao-Modulos.md)
+- [Programação Orientada a Objetos](8-POO/1-Introducao-POO.md)
+- [APIs e Requisições Web](10-APIS/1-Introducao-APIs.md)
+- [Interface Gráfica](12-GUI/1-Introducao-GUI.md)
 
 ### 🚀 8. PROJETOS PRÁTICOS
 Coloque em prática tudo que aprendeu com projetos reais e divertidos!
 
-- [Calculadora Completa](8-PROJETOS/1-Calculadora.md)
-- [Jogo de Adivinhação](8-PROJETOS/2-Jogo-Adivinhacao.md)
-- [Lista de Tarefas](8-PROJETOS/3-Lista-Tarefas.md)
+- [Calculadora Completa](9-PROJETOS/1-Calculadora.md)
+- [Jogo de Adivinhação](9-PROJETOS/2-Jogo-Adivinhacao.md)
+- [Lista de Tarefas](9-PROJETOS/3-Lista-Tarefas.md)
 
 ### ✨ 9. BOAS PRÁTICAS
 Aprenda a escrever código profissional e limpo.
 
-- [Código Limpo](10-BOAS-PRATICAS/1-Codigo-Limpo.md)
+- [Código Limpo](11-BOAS-PRATICAS/1-Codigo-Limpo.md)
 
 ### 📋 10. CHEAT SHEET
 Referência rápida de todos os comandos essenciais.
 
-- [Resumo de Comandos](12-CHEAT-SHEET/1-Resumo-Comandos.md)
-
-## 🛠️ Pré-requisitos
-
-### Software Necessário
-- **Python 3.8+** - [Download aqui](https://python.org/downloads/)
-- **Editor de código** - Recomendamos:
-  - [VS Code](https://code.visualstudio.com/) (gratuito)
-  - [PyCharm Community](https://www.jetbrains.com/pycharm/) (gratuito)
-  - [Thonny](https://thonny.org/) (ideal para iniciantes)
+- [Resumo de Comandos](13-CHEAT-SHEET/1-Resumo-Comandos.md)
 
 ### Conhecimento Prévio
 - ✅ Nenhum! Este tutorial é para iniciantes absolutos
@@ -112,16 +103,11 @@ Referência rápida de todos os comandos essenciais.
 4. **Use o Cheat Sheet** - Consulte sempre que precisar relembrar comandos
 5. **Projetos** - Só passe para os projetos após completar os fundamentos
 
-### ⏰ Ritmo de Estudo
-- **Iniciante total**: 1-2 tópicos por semana
-- **Com alguma experiência**: 3-4 tópicos por semana
-- **Dedicação recomendada**: 1-2 horas por dia
-
 ### 💡 Dicas de Aprendizado
 - 🔄 **Revise sempre** - Volte aos tópicos anteriores quando necessário
 - 💻 **Pratique no computador** - Não apenas leia, digite o código!
 - 📋 **Use o Cheat Sheet** - Mantenha sempre à mão para consultas rápidas
-- 🤝 **Busque ajuda** - Use fóruns como Stack Overflow em português
+- 🤝 **Busque ajuda** - Chame o professor sempre que precisar
 - 📝 **Faça anotações** - Anote dúvidas e conceitos importantes
 - 🎯 **Seja paciente** - Programação é uma habilidade que se desenvolve com tempo
 
@@ -139,10 +125,10 @@ Referência rápida de todos os comandos essenciais.
 
 ## 🎉 Vamos Começar!
 
-Pronto para sua jornada na programação? Comece pelo [O que é Programação?](0-INTRODUCAO/0-O-Que-É-Programação.md) e descubra o incrível mundo do Python!
+Pronto para sua jornada na programação? Comece pelo [O que é Programação?](0-INTRODUCAO/0-O-Que-É-Programação.md)
 
 **Lembre-se**: Todo programador experiente já foi iniciante um dia. O importante é começar! 🚀
 
 ---
 
-*Criado com ❤️ para a comunidade Python brasileira*
+*Feito com ❤️ pelo professor Lucas*
