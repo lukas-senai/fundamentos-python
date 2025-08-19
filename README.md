@@ -39,20 +39,20 @@ Aprenda a controlar o fluxo do seu programa com decisões e repetições.
 - [Loop For](2-ESTRUTURAS-CONTROLE/2-For.md)
 - [Loop While](2-ESTRUTURAS-CONTROLE/3-While.md)
 
-### ⚙️ 3. FUNÇÕES
-Organize seu código e evite repetições com funções.
-
-- [Definindo Funções](3-FUNCOES/1-Definindo-Funcoes.md)
-- [Parâmetros e Argumentos](3-FUNCOES/2-Parametros-Argumentos.md)
-
-### 📊 4. ESTRUTURAS DE DADOS
+### 📊 3. ESTRUTURAS DE DADOS
 Trabalhe com coleções de dados de forma eficiente.
 
-#### 4.1 Listas
-- [Introdução às Listas](4-ESTRUTURAS-DADOS/1-Introducao-Listas.md)
+#### 3.1 Listas
+- [Introdução às Listas](3-ESTRUTURAS-DADOS/1-Introducao-Listas.md)
 
-#### 4.2 Dicionários
-- [Introdução aos Dicionários](4-ESTRUTURAS-DADOS/2-Introducao-Dicionarios.md)
+#### 3.2 Dicionários
+- [Introdução aos Dicionários](3-ESTRUTURAS-DADOS/1-Introducao-Dicionarios.md)
+
+### ⚙️ 4. FUNÇÕES
+Organize seu código e evite repetições com funções.
+
+- [Definindo Funções](4-FUNCOES/1-Definindo-Funcoes.md)
+- [Parâmetros e Argumentos](4-FUNCOES/2-Parametros-Argumentos.md)
 
 ### 🛡️ 5. TRATAMENTO DE ERROS
 Torne seus programas mais robustos lidando com erros.
